@@ -1,0 +1,7 @@
+{
+  "name": "Nebula Hands: 3D Gesture Particles",
+  "description": "A high-performance interactive 3D particle system controlled by real-time hand gestures. Use your hands to scale and diffuse cosmic shapes including Hearts, Flowers, and Saturn.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
